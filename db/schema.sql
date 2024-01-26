@@ -1,0 +1,2 @@
+DROP DATABASE IF EXISTS postgres_db;
+CREATE DATABASE postgres_db;
